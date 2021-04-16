@@ -13,3 +13,6 @@ M.S-Software Engineering BITS Pilani (Pursuing)
 Work Experience:
 
 HCL Technologies
+
+Innospire
+
